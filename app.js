@@ -5,3 +5,4 @@ selectElement('.mobile-menu').addEventListener('click', () => {
 });
 
 const span = document.querySelectorAll('.nav-item');
+console.log(span);
